@@ -1,6 +1,6 @@
 Summary
 -------
-This PR implements the enhancements described in Issue #<issue_number>:
+This PR implements the enhancements described in Issue #1:
 - Standardize column names and full data cleaning for Project 1 - Weather.
 - Added EDA: correlation heatmap, time-series plots, boxplots, monthly aggregation.
 - Implemented a simple next-hour temperature prediction using LinearRegression (scikit-learn). Includes model evaluation (MAE, R²).
