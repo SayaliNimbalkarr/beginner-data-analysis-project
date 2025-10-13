@@ -1,6 +1,7 @@
 ****OpenVista: Data Analysis and Visualization for Open Datasets****
 
 **Overview**
+
 OpenVista is an open-source initiative aimed at exploring and visualizing real-world datasets using data cleaning, machine learning, and business intelligence techniques.
 Each team member contributed to a different dataset, building complete data pipelines — from preprocessing to dashboarding — to make data insights accessible and interactive.
 
