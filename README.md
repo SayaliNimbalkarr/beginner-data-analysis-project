@@ -35,4 +35,5 @@ git checkout weather-cleaning
 4. Siddhi Bhuvad – Udemy Course Analysis
 
 **Acknowledgment**
+
 This project is contributed as part of an Open Source Software Lab, demonstrating collaboration, data-driven thinking, and open-source contribution workflows.
